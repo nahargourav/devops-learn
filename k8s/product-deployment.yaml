@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: product-service
-          image: murughan1985/novacart-product-service:v1
+          image: nahargourav/novacart-product-service:v1
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 3001

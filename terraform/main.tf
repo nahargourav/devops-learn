@@ -11,7 +11,7 @@ terraform {
 provider "docker" {}
 
 resource "docker_image" "novacart_frontend" {
-  name = "murughan1985/novacart-frontend:v1"
+  name = "nahargourav/novacart-frontend:v1"
 }
 
 resource "docker_container" "novacart_frontend" {
