@@ -1,0 +1,12 @@
+{
+  "name": "novacart-product-service",
+  "version": "1.0.0",
+  "description": "Product service for NovaCart Retail",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
