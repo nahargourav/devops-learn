@@ -2,7 +2,7 @@
 
 NovaCart Retail is a microservices-based retail application with three Node.js services, Docker packaging, CI/CD via GitHub Actions, and Kubernetes deployment manifests for a Kind cluster.
 
-## Architecture Diagram
+## Architecture Diagram.
 
 ```text
 +-------------------+        REST        +---------------------+
